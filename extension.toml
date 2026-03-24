@@ -1,7 +1,7 @@
-id = "gruvbuddy-theme"
-name = "Gruvbuddy Theme"
+id = "gruvbuddy"
+name = "Gruvbuddy"
 version = "0.0.1"
 schema_version = 1
 authors = ["Weslei J M Pereira"]
-description = "A dark color theme based on gruvbuddy by TJ DeVries"
-repository = "https://github.com/weslei/colorbuddy.zed"
+description = "A dark color theme based on gruvbuddy neovim by TJ DeVries"
+repository = "https://github.com/wesleimp/gruvbuddy.zed"
